@@ -41,7 +41,7 @@ public class Game extends Canvas implements Runnable
     private int direction = 0;
     
     int scakhir = 0;
-    private int total =0;
+ 
     
     // Default constructor.
     public Game()
